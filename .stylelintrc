@@ -1,0 +1,7 @@
+{
+  "extends": [
+    "stylelint-config-styled-components",
+    "stylelint-config-react-native-styled-components"
+  ],
+  "processors": ["stylelint-processor-styled-components"],
+}

@@ -1,0 +1,7 @@
+export const themeConstants = {
+  SWITCH_THEME: 'theme/SWITCH_THEME',
+  SET_ON_SYNC: 'theme/SET_ON_SYNC',
+  SPLASH_LOADED: 'theme/SPLASH_LOADED',
+  SHOW_OUTER_TAB_BAR: 'theme/SHOW_OUTER_TAB_BAR',
+  SHOW_HOME_HEADER: 'theme/SHOW_HOME_HEADER',
+};

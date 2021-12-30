@@ -1,0 +1,15 @@
+export const postsConstants = {
+  CLEAN_UP: 'posts/CLEAN_UP',
+  FETCH_POSTS: 'posts/FETCH_POSTS',
+  SET_POSTS: 'posts/SET_POSTS',
+  SET_USER: 'posts/SET_USER',
+  LAST_SEEN_KEY: 'posts/LAST_SEEN_KEY',
+  FIRST_SEEN_KEY: 'posts/FIRST_SEEN_KEY',
+  LOAD_NEW_POSTS: 'posts/LOAD_NEW_POSTS',
+  CAN_BE_UPDATED: 'posts/CAN_BE_UPDATED',
+  LIKE: 'posts/LIKE',
+  SET_LIKED_POSTS: 'posts/SET_LIKED_POSTS',
+  CHECH_IF_LIKED: 'posts/CHECH_IF_LIKED',
+  COMMENT: 'posts/COMMENT',
+  REFRESH: 'posts/REFRESH',
+};

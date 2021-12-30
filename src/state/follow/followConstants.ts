@@ -1,0 +1,7 @@
+export const followConstants = {
+  FETCH_FOLLOWING_USERS: 'follow/FETCH_FOLLOWING_USERS',
+  CLEAN_UP: 'follow/CLEAN_UP',
+  SET_FOLLOWING_USERS: 'follow/SET_FOLLOWING_USERS',
+  FOLLOW_USER: 'follow/FOLLOW_USER',
+  UNFOLLOW_USER: 'follow/UNFOLLOW_USER',
+};
